@@ -10,3 +10,5 @@ clone or download given url
 ## Testing Env
 
     path:/test/testrequest.js
+## Getting data from GitHub api 
+    path:/service/service.js using prototype programming
