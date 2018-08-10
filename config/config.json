@@ -1,0 +1,8 @@
+{
+  "GITHUB_OPTIONS": {
+    "URL": "https://api.github.com",
+    "GETUSER": "/users",
+    "GETRESPOSITORY": "/repos",
+    "GETUSEREVENTS": "/events"
+  }
+}
